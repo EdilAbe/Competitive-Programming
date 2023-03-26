@@ -20,7 +20,7 @@
 #         return sorted(x*x for x in A)
 
 
-# Java pointer 
+# Java pointer  
 # class Solution {
 #     public int[] sortedSquares(int[] nums) {
 #         int n = nums.length;
